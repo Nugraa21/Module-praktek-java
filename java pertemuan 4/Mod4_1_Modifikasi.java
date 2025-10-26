@@ -21,6 +21,30 @@ public class Mod4_1_Modifikasi {
     }
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Output menampilkan nilai hasil perhitungan sesuai dengan aturan prioritas operator dalam Java, yaitu perkalian (*) dilakukan lebih dulu daripada penjumlahan (+).
 
 // Langkah perhitungan:

@@ -19,7 +19,36 @@ public class Mod4_1_Latihan1 {
     }
 }
 
-// 📘 Penjelasan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Penjelasan
 
 // Nilai C tidak dimasukkan oleh user, tetapi dihitung dari B * 2.
 
@@ -36,5 +65,5 @@ public class Mod4_1_Latihan1 {
 
 // Penjelasan:
 
-// C = 5 * 2 = 10  
+// C = 5 * 2 = 10
 // A = 5 + 10 * 6 = 5 + 60 = 65

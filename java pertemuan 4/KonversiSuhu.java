@@ -17,6 +17,37 @@ public class KonversiSuhu {
     }
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Pseudocode
 // Deklarasi:
 //     C, R, F : float

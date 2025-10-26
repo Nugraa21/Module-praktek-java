@@ -18,6 +18,22 @@ public class Mod4_3 {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Program ini meminta dua bilangan dari pengguna, yaitu Bil1 dan Bil2.
 // Operasi Hasil = Bil1 % Bil2; menggunakan operator modulus (%), yaitu operator yang menghasilkan sisa hasil pembagian antara dua bilangan.
 

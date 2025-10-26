@@ -21,6 +21,29 @@ public class HitungGaji {
     }
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // 📘 Penjelasan
 
 // Tunjangan kinerja = 20% dari gaji pokok → 0.2 * gajiPokok

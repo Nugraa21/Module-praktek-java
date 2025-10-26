@@ -17,6 +17,39 @@ public class LuasLingkaran {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Pseudocode
 // Deklarasi:
 //     r : float

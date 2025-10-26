@@ -10,6 +10,25 @@ public class Mod4_1
     }
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Output program adalah:
 
 // Hasil A = 23

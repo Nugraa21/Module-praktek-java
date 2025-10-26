@@ -25,7 +25,7 @@ public class Biodata {
 
         System.out.print("Masukkan Email: ");
         String email = input.nextLine();
-
+le
         System.out.print("Masukkan Jurusan: ");
         String jurusan = input.nextLine();
 
@@ -44,6 +44,9 @@ public class Biodata {
         System.out.println("Alamat         : " + alamat);
     }
 }
+
+
+
 
 // 📘 Penjelasan
 
